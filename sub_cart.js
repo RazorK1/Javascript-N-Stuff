@@ -10,7 +10,6 @@
 
    Filename: sub_cart.js
 
-
    Functions List:
    setupCart() 
       Sets up the event handlers for the Add to Order buttons on the web page.
@@ -21,7 +20,6 @@
       the customer.
 
 */
-
 
 window.addEventListener("load", setupCart);
 
