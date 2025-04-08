@@ -5,9 +5,6 @@
    Tutorial 12
    Case Problem 2
 
-   Author: Kyle Harris
-   Date: 03/27/2025
-
    Filename: sub_cart.js
 
    Functions List:
