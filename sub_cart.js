@@ -86,5 +86,7 @@ function updateCartDisplay(cartBox) {
         cartBox.appendChild(itemDiv);
     });
 
+   
     console.log("✅ Cart updated.");
 }
+
