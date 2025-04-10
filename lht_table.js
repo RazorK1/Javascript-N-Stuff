@@ -7,7 +7,6 @@
 
    Author: Kyle Harris
    Date: 02/14/2025
-
 	
 */
 
@@ -64,4 +63,3 @@ document.addEventListener("DOMContentLoaded", function () {
         console.error("Error: eventList div not found!");
     }
 });
-
