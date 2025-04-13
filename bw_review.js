@@ -167,7 +167,6 @@ function countCharacters(text) {
    return text.length;
 }
 
-  
 /*=================================================================*/
 
 function countCharacters(textStr) {
