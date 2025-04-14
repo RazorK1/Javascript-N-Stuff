@@ -21,8 +21,8 @@
    The createBar(partyType, percent) function writes a different
    table data table based on the candidates party affilication.
    
-      
 */
+
 let reportHTML = `<h1>${raceTitle}</h1>`;
 
 // Loop through each race
