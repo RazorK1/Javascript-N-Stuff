@@ -10,7 +10,7 @@
 	
 */
 
-//Set the reference date (October 1, 2021)
+//Set the reference date (October 1, 2021);
 let thisDay = new Date("October 1, 2021");
 
 //Compute the end date (14 days after thisDay)
@@ -53,6 +53,7 @@ for (let i = 0; i < eventDates.length; i++) {
 
 //Close the table tag
 tableHTML += `</table>`;
+
 
 //Insert table into the eventList div
 document.addEventListener("DOMContentLoaded", function () {
