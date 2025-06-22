@@ -171,7 +171,6 @@ window.onload = function() {
 };
 
 
-
 //////////////////////////////////////// OLD CODE
 /*
 function findKeyWords() {
