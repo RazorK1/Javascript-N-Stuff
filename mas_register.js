@@ -26,7 +26,6 @@
       Writes data values from session storage in to the
       registration summary form
 
-
 */
 
 // Set up event listeners after the page fully loads
