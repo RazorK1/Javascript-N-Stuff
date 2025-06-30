@@ -12,6 +12,7 @@
    Filename: bu_bubbles.js
 
 */
+
 // Object literal for the bubble box dimensions
 var box = {
    width: 1024,
