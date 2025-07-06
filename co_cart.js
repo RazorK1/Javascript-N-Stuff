@@ -78,7 +78,6 @@ window.addEventListener("load", function() {
 
 
 
-
 function formatNumber(val, decimals) {
    return val.toLocaleString(undefined, {minimumFractionDigits: decimals, 
                                          maximumFractionDigits: decimals});
