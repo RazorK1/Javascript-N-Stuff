@@ -89,4 +89,3 @@ function updateCartDisplay(cartBox) {
    
     console.log("✅ Cart updated.");
 }
-
