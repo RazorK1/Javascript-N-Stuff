@@ -217,7 +217,6 @@ function switchTypeDirection() {
 
 
 
-
 /*====================================================*/
 
 function getChar(keyNum) {
