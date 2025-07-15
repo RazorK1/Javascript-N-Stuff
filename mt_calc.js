@@ -232,7 +232,6 @@ function buttonClick(event) {
 }
 
 
-
 /* ===================================================================== */
 
 function eraseChar(textStr) { 
