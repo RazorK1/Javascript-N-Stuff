@@ -32,7 +32,6 @@ let reportHTML = `<h1>${raceTitle}</h1>`;
    // Calculate total votes for the current race
    votes[i].forEach((num) => totalVotes += num);
 
-
    // Add race name and table headers to reportHTML
    reportHTML += `
    <table>
