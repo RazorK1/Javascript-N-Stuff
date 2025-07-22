@@ -30,7 +30,6 @@
    pokerCard
       The pokerCard object contains properties and methods associated with
       individual poker cards including the card rank, suit, and value.
-   
 	
 */
 
