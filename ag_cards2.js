@@ -72,7 +72,6 @@ var squareGame = {
 
 
 
-
 /* ------- Poker Style Custom Objects ---------- */
 
 
