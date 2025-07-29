@@ -71,7 +71,6 @@ var squareGame = {
 
 
 
-
 /* Constructor function for poker cards */
 function pokerCard(cardSuit, cardRank) {
    this.suit = cardSuit;
