@@ -122,7 +122,6 @@ function pokerDeck() {
    };
 }
 
-
 /* Constructor function for poker hands */
 function pokerHand(handLength) {
    this.cards = new Array(handLength);
