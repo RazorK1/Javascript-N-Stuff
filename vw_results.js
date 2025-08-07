@@ -100,7 +100,6 @@ function createBar(partyType) {
    return barHTML;
 }
 
-
 /* Callback Function to calculate an array sum */
 function calcSum(value) {
    totalVotes += value;
@@ -110,3 +109,4 @@ function calcSum(value) {
 function calcPercent(value, sum) {
    return (100*value/sum);
 }
+
