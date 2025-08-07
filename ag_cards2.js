@@ -88,7 +88,6 @@ pokerCard.prototype.replaceFromDeck = function(pokerDeck) {
    pokerDeck.cards.shift();
 }
 
-
 /* Constructor function for poker decks */
 function pokerDeck() {
    this.cards = new Array(52);
