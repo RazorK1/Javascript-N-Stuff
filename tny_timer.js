@@ -59,7 +59,6 @@ setInterval(showClock, 1000);
 // This will automatically use the current date and time
 let thisDay = new Date(); 
 
-
 function nextJuly4(currentDate) {
    var cYear = currentDate.getFullYear();
    var jDate = new Date("July 4, 2021");
@@ -67,3 +66,4 @@ function nextJuly4(currentDate) {
    if ((jDate - currentDate) < 0) jDate.setFullYear(cYear + 1);
    return jDate;
 }
+
