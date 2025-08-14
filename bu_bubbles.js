@@ -69,7 +69,6 @@ bubble.prototype.moveBubble = function(height, width) {
 };
 
 
-
 window.addEventListener("load", function() {
    // Reference to the bubble box
    var bubbleBox = document.getElementById("bubbleBox");
