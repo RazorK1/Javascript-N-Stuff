@@ -56,7 +56,7 @@ function runSubmit(evt) {
 function validateDate() {
    const expDate = document.getElementById("expDate");
    const expValue = expDate.value.trim();
-   const pattern = /^(0[1-9]|1[0-2])\/\d{4}$/;
+   const pattern = /^(0[1-9]|1[0-2])\/\d{4}$/; // Regex Code
 
    if (!pattern.test(expValue)) {
       alert("Expiration date must be in the format mm/yyyy.");
