@@ -52,7 +52,6 @@ function runSubmit(evt) {
 }
 
 
-
 function validateDate() {
    const expDate = document.getElementById("expDate");
    const expValue = expDate.value.trim();
