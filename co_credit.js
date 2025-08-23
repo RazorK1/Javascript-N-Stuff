@@ -165,7 +165,6 @@ window.addEventListener('load', function() {
 });
 
 
-
 /* Functions already provided in the file */
 
 function validateName() {
