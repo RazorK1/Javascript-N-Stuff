@@ -164,8 +164,7 @@ window.addEventListener('load', function() {
    initPaymentForm(); // Initialize form validation on load
 });
 
-
-/* Functions already provided in the file */
+///////////////* Functions already provided in the file *////////////////////////////
 
 function validateName() {
    var cardName = document.getElementById("cardHolder");
