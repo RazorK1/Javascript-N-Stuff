@@ -80,7 +80,6 @@ function validateDate() {
    return true;
 }
 
-
 function initPaymentForm() {
    console.log("Payment form is ready for interaction.");
 
