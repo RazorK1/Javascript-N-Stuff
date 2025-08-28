@@ -235,3 +235,4 @@ function luhn(idNum) {
    // Return whether the sum of the digits is divisible by 10
    return sumDigits(string1 + string2) % 10 === 0;
 }
+
