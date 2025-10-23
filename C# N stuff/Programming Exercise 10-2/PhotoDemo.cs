@@ -85,7 +85,9 @@ class MattedPhoto : Photo
 
     public override string ToString()
     {
-        return $"{GetType().Name}   {Color} matting {Width} X {Height}   Price: {price.ToString("C")}";
+        return string.Format("{0}   {1} matting {2} X {3}   Price: {4}",
+            GetType().Name, Color, Width, Height,
+            price.ToString("C", CultureInfo.GetCultureInfo("en-US")));
     }
 
 }
