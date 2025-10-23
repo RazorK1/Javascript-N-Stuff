@@ -110,6 +110,8 @@ class FramedPhoto : Photo
 
     public override string ToString()
     {
-        return $"{GetType().Name}   {Style}, {Material} frame. {Width} X {Height}   Price: {price.ToString("C")}";
+        return string.Format("{0}   {1}, {2} frame. {3} X {4}   Price: {5}",
+            GetType().Name, Style, Material, Width, Height,
+            price.ToString("C", CultureInfo.GetCultureInfo("en-US")));
     }
 }
