@@ -24,10 +24,6 @@ class Photo
 	public int height;
 	public int width;
 
-	protected string color;
-	protected string material;
-	protected string style;
-
     public int Width
     {
         get { return width; }
