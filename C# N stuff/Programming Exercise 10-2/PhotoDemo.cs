@@ -68,7 +68,9 @@ class Photo
 
     public override string ToString()
     {
-        return $"{GetType().Name} {Width} X {Height}   Price: ${price.ToString("C")}";
+        return string.Format("{0} {1} X {2}   Price: {3}",
+            GetType().Name, Width, Height,
+            price.ToString("C", CultureInfo.GetCultureInfo("en-US")));
     }
 
 }
