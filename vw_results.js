@@ -1,6 +1,7 @@
 "use strict";
 
 /*
+
    New Perspectives on HTML5 and CSS3, 8th Edition
    Tutorial 10
    Case Problem 2
@@ -109,4 +110,5 @@ function calcSum(value) {
 function calcPercent(value, sum) {
    return (100*value/sum);
 }
+
 
