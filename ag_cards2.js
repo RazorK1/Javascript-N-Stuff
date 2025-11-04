@@ -66,7 +66,7 @@ var squareGame = {
    }
 };
 
-/* ------- Poker Style Custom Objects ---------- */
+/* ------- Poker Style Custom Objects --------- */
 
 /* Constructor function for poker cards */
 function pokerCard(cardSuit, cardRank) {
