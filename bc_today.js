@@ -11,6 +11,7 @@
    This script uses the getEvent() function to return the
    HTML code containin the daily events at the Bridger College
    student union.
+   
 */
 
 // This will ensure that the entire file is treated as strict mode.
