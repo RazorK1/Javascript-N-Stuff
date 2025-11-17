@@ -36,6 +36,7 @@
    isWhiteSpaceNode(tString)
       Returns true if tString represents the text of a white space text
       node and false if it doesn't
+      
 */
 
 // Global variables initialization
