@@ -9,6 +9,7 @@
    The eventDates array contains the dates of events at the LHT
    The eventDescriptions array contains the event names
    The eventPrices array contains the cost of the events
+   
 */
 
 var eventDates = ["August 30, 2021 11:00:00", "August 31, 2021 19:00:00", "September 1, 2021 19:30:00", 
