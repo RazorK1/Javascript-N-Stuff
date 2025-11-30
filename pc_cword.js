@@ -1,6 +1,7 @@
 "use strict";
 
 /*
+
    New Perspectives on HTML5, CSS3 and JavaScript 6th Edition
    Tutorial 11
    Case Problem 3
@@ -222,3 +223,4 @@ function switchTypeDirection() {
 function getChar(keyNum) {
    return String.fromCharCode(keyNum);
 }
+
