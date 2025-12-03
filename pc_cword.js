@@ -47,7 +47,6 @@
    getChar(keyNum)
       Returns the text character associated with the key code value, keyNum
 
-
 */
 
 // Declare global variables
@@ -223,4 +222,5 @@ function switchTypeDirection() {
 function getChar(keyNum) {
    return String.fromCharCode(keyNum);
 }
+
 
